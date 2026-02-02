@@ -13,22 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IDEAS.md",
+                "file": "Creative applications.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IDEAS"
+              "title": "Creative applications"
             }
           }
         ]
       },
       {
-        "id": "043d2032e889e85a",
+        "id": "2d8d4496fa74c150",
         "type": "tabs",
         "children": [
           {
-            "id": "fad74d3c69fecd69",
+            "id": "7b3452c3b922f67f",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Creative applications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de README"
+              "title": "Backlinks for Creative applications"
             }
           },
           {
@@ -171,8 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,14 +185,14 @@
       "slides-extended:Show Slide Preview": false
     }
   },
-  "active": "28b90adae1eabf78",
+  "active": "7b3452c3b922f67f",
   "lastOpenFiles": [
+    "README.md",
+    "Creative applications.md",
     "Redes de radio.jpg",
     "Social network for machines.png",
-    "README.md",
     "Pasted image 20260202160624.png",
     "Pasted image 20260202160636.png",
-    "IDEAS.md",
     "Social network for machines 1.png",
     "Untitled",
     "Ideas",
