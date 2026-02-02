@@ -1,5 +1,7 @@
 # jpicerno88
-Repositorio Jeronimo Picerno
+Repositorio Jerónimo Picerno
 
 Master ingenieria diseño Industrial
+
+# 2026
 

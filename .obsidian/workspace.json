@@ -6,7 +6,6 @@
       {
         "id": "6e60c571cd48c529",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
             "id": "28b90adae1eabf78",
@@ -14,23 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sesiones/20260129_sesion_2/README.md",
+                "file": "IDEAS.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "IDEAS"
             }
           }
         ]
       },
       {
-        "id": "c6d0aa40279493dc",
+        "id": "043d2032e889e85a",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
-            "id": "350bba5b763f0639",
+            "id": "fad74d3c69fecd69",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -62,7 +60,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
@@ -178,18 +176,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Crear nueva base": false,
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "slides-extended:Show Slide Preview": false
     }
   },
   "active": "28b90adae1eabf78",
   "lastOpenFiles": [
+    "Redes de radio.jpg",
+    "Social network for machines 1.png",
+    "Social network for machines.png",
+    "Pasted image 20260202160636.png",
+    "Pasted image 20260202160624.png",
+    "README.md",
+    "IDEAS.md",
+    "Untitled",
+    "Ideas",
     "proyectos/proyecto _final-guia/ideas/README.md",
     "sesiones/20260129_sesion_2/README.md",
     "sesiones/20260128_sesion_1/README.md",
@@ -212,7 +219,6 @@
     "herramientas/terminal/README.md",
     "proyectos/proyecto _final-guia/README.md.md",
     "referencias/teoria_tecnica/README.md",
-    "README.md",
     "referencias/teoria_tecnica/dataVizs/videos/README.md",
     "proyectos/README.md",
     "proyectos/de la observacion al dato/README.md",
@@ -220,21 +226,13 @@
     "Sesión 8 - Presentación de proyecto.md",
     "sesiones/20260305_sesion_8/README.md",
     "sesiones/20260302_sesion_7/README.md",
-    "sesiones/20260226_sesion_6/README.md",
-    "sesiones/20260225_sesion_5/README.md",
     "proyectos/de la observacion al dato",
     "proyectos/agasso.Uf7xnXZo.mp4.part",
-    "proyectos/agasso.mp4",
     "proyectos/happiness.png",
     "proyectos/cine.png",
-    "proyectos/proyecto _final-guia",
     "referencias/teoria_tecnica/processing/concepts/assets/helloworld.jpg",
     "referencias/teoria_tecnica/processing/assets/matt_pearson.jpg",
     "referencias/teoria_tecnica/processing/assets/creative-coding.jpg",
-    "proyectos/Barcelona-Clean-Location/sketches/opendata_barcelona03/data/otra.jpg",
-    "proyectos/Barcelona-Clean-Location/sketches/opendata_barcelona03/data/bkg.jpg",
-    "proyectos/Barcelona-Clean-Location/sketches/opendata_barcelona02_nulas/data/otra.jpg",
-    "proyectos/Barcelona-Clean-Location/sketches/opendata_barcelona02_nulas/data/bkg.jpg",
-    "proyectos/Barcelona-Clean-Location/sketches/opendata_barcelona02/data/otra.jpg"
+    "proyectos/Barcelona-Clean-Location/sketches/opendata_barcelona03/data/otra.jpg"
   ]
 }
