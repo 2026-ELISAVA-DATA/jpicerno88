@@ -1,6 +1,7 @@
 https://www.creativeapplications.net/project/invisible-network-a-social-network-for-the-machines/
+![[Social network for machines.png]]
 
-![[Social network for machines 1.png]]
+
 Este proyecto me interesa porque hace visible algo que está pasando todo el tiempo pero que no percibimos: **las máquinas hablando entre ellas**. Vivimos rodeados de dispositivos conectados que se comunican de forma constante y autónoma, y sin embargo esa red es completamente invisible para nosotros. El objeto funciona como un intermediario que traduce ese mundo digital a algo más cercano y entendible.
 
 Además, me conecta mucho con discusiones actuales sobre inteligencia artificial. Hace pocos días apareció una noticia sobre **IA interactuando entre sí en redes propias**, desarrollando dinámicas y discursos autónomos. En ese contexto, el proyecto plantea una pregunta muy clara: qué pasa cuando las máquinas generan sus propias relaciones, más allá de nuestra participación.
@@ -14,4 +15,4 @@ En conjunto, es un proyecto que no busca impresionar con tecnología, sino **cam
 
 https://www.creativeapplications.net/project/the-architecture-of-radio-visualizing-the-invisible-architecture-of-networks/
 
-![[Redes de radio.jpg]]
+![[Redes de radio.jpg]]![[Redes de radio.jpg]
